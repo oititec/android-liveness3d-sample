@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Liveness3dSample</string>
+    <string name="liveness3d">Liveness3D</string>
+
+    <string name="FaceTec_accessibility_cancel_button">Cancelar</string>
+    <string name="FaceTec_accessibility_torch_button">Inverter cores</string>
+
+    <string name="FaceTec_action_ok">Tudo certo</string>
+    <string name="FaceTec_action_im_ready">Começar</string>
+    <string name="FaceTec_action_try_again">Tentar novamente</string>
+    <string name="FaceTec_action_continue">Continuar</string>
+    <string name="FaceTec_action_take_photo">Tirar foto</string>
+    <string name="FaceTec_action_retake_photo">Tirar foto novamente</string>
+    <string name="FaceTec_action_accept_photo">Aceitar</string>
+    <string name="FaceTec_action_confirm">Confirmar</string>
+
+    <string name="FaceTec_camera_permission_header">Permissões da câmera desativadas.</string>
+    <string name="FaceTec_camera_permission_message_enroll">Habilitar as configurações\do seu aparelho.</string>
+    <string name="FaceTec_camera_permission_message_auth">Em seu aparelho, vá em Ajustes/Configurações\e habilite o uso da câmera.</string>
+    <string name="FaceTec_camera_permission_enable_camera">Habilitar câmera</string>
+    <string name="FaceTec_camera_permission_launch_settings">Verificar Ajustes/Configurações</string>
+
+    <string name="FaceTec_feedback_center_face">Centralize seu rosto</string>
+    <string name="FaceTec_feedback_face_not_found">Posicione seu rosto</string>
+    <string name="FaceTec_feedback_face_not_looking_straight_ahead">Olhe para frente</string>
+    <string name="FaceTec_feedback_face_not_upright">Mantenha a cabeça reta</string>
+    <string name="FaceTec_feedback_hold_steady">Segure firme</string>
+    <string name="FaceTec_feedback_move_phone_away">Afaste-se</string>
+    <string name="FaceTec_feedback_move_phone_closer">Aproxime-se</string>
+    <string name="FaceTec_feedback_move_phone_to_eye_level">Mantenha o telefone\ao nível dos olhos</string>
+    <string name="FaceTec_feedback_use_even_lighting">Encontre um ambiente iluminado</string>
+
+    <string name="FaceTec_instructions_header_ready_1">Vamos </string>
+    <string name="FaceTec_instructions_header_ready_2">começar!</string>
+    <string name="FaceTec_instructions_message_ready_1">Posicione seu rosto na moldura,</string>
+    <string name="FaceTec_instructions_message_ready_2">se aproxime e toque em começar.</string>
+
+    <string name="FaceTec_presession_frame_your_face">Vamos começar</string>
+    <string name="FaceTec_presession_position_face_straight_in_oval">Olhe para frente</string>
+    <string name="FaceTec_presession_hold_steady_3">Segure firme por: 3</string>
+    <string name="FaceTec_presession_hold_steady_2">Segure firme por: 2</string>
+    <string name="FaceTec_presession_hold_steady_1">Segure firme por: 1</string>
+    <string name="FaceTec_presession_eyes_straight_ahead">Olhe para frente</string>
+    <string name="FaceTec_presession_remove_dark_glasses">Remova seus óculos escuros</string>
+    <string name="FaceTec_presession_neutral_expression">Olhe para a câmera sem sorrir</string>
+    <string name="FaceTec_presession_conditions_too_bright">Evite um ambiente muito iluminado</string>
+    <string name="FaceTec_presession_brighten_your_environment">Encontre um ambiente bem iluminado</string>
+
+    <string name="FaceTec_result_facescan_upload_message">Carregando</string>
+    <string name="FaceTec_result_success_message">Tudo certo</string>
+    <string name="FaceTec_result_idscan_upload_message">Uploading\nEncrypted\nID Scan</string>
+    <string name="FaceTec_result_nfc_upload_message">Uploading\nEncrypted\nNFC Details</string>
+    <string name="FaceTec_result_idscan_unsuccess_message">ID Photo\nDid Not Match\nUser\'s Face</string>
+    <string name="FaceTec_result_idscan_success_front_side_message">Your 3D Face\nMatched Your ID</string>
+    <string name="FaceTec_result_idscan_success_front_side_back_next_message">Your 3D Face\nMatched Your ID</string>
+    <string name="FaceTec_result_idscan_success_back_side_message">Back of ID Captured</string>
+    <string name="FaceTec_result_idscan_success_user_confirmation_message">ID Verification\nComplete</string>
+    <string name="FaceTec_result_idscan_success_nfc_message">NFC Chip Info\nVerified</string>
+    <string name="FaceTec_result_idscan_skip_or_error_nfc_message">NFC Scan Info\nUploaded</string>
+    <string name="FaceTec_result_idscan_retry_face_did_not_match_message">Face Didn\'t Match\nHighly Enough</string>
+    <string name="FaceTec_result_idscan_retry_id_not_fully_visible_message">ID Document\nNot Fully Visible</string>
+    <string name="FaceTec_result_idscan_retry_ocr_results_not_good_enough_message">ID Text Not Legible</string>
+    <string name="FaceTec_result_idscan_retry_id_type_not_supported_message">ID Type Not Supported\nPlease Use a Different ID</string>
+
+    <string name="FaceTec_retry_header">Vamos tentar novamente?</string>
+    <string name="FaceTec_retry_subheader_message">Siga o exemplo de foto ideal abaixo:</string>
+    <string name="FaceTec_retry_instruction_message_1">Não sorria</string>
+    <string name="FaceTec_retry_instruction_message_2">Evite reflexos e iluminação extrema.</string>
+    <string name="FaceTec_retry_instruction_message_3">Precisamos de uma foto nítida</string>
+    <string name="FaceTec_retry_your_image_label">Sua foto</string>
+    <string name="FaceTec_retry_ideal_image_label">Foto ideal</string>
+</resources>
